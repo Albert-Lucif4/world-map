@@ -1,7 +1,4 @@
 # coronavirus-map
-
-- [协作流程](/docs/teamworkFlow.md)
-
 - [开发指南](/docs/developGuide.md)  
 
 - [需求文档](/docs/requirements.md)
